@@ -53,9 +53,10 @@ def get_jobs():
     if len(data['jobs']) > 0:
         for job in data['jobs']:
             filename = job['filename']
-            mb_left = job['mbleft']
-            mb_total = job['mb']
-            subtitle_text = mb_left + " / " + mb_total
+            mb_left = str(job['mbleft'])
+            mb_total = str(job['mb'])
+            time_left = job['timeleft']
+            subtitle_text = mb_left + " / " + mb_total + " | Time left: " + time_left
             fb.add_item(filename, subtitle_text)
     else:
         fb.add_item("No current jobs")
