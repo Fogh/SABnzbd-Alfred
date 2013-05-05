@@ -83,6 +83,17 @@
 				<string></string>
 			</dict>
 		</array>
+		<key>641B9DEE-F4A2-4D09-8748-619625404084</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F2136CD3-9696-4491-91D0-6E29E8B5AD35</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
 		<key>6A33C721-D124-4100-8BF8-2DF204318252</key>
 		<array>
 			<dict>
@@ -171,6 +182,17 @@
 				<string></string>
 			</dict>
 		</array>
+		<key>F2136CD3-9696-4491-91D0-6E29E8B5AD35</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>201F6000-8545-443F-80F2-E3267C9BAFA4</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
 	</dict>
 	<key>createdby</key>
 	<string>Anders Fogh Eriksen</string>
@@ -182,6 +204,39 @@
 	<string>SABnzbd</string>
 	<key>objects</key>
 	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>from sabAlfred import open_browser
+open_browser()</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>E7BFE40A-BF9D-441A-A732-80FB0B81D50F</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>sab</string>
+				<key>text</key>
+				<string>Open SABnzbd in your browser</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>7D614B9A-6310-4D75-8289-9DA20E6401F4</string>
+		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
@@ -205,17 +260,50 @@
 			<key>config</key>
 			<dict>
 				<key>escaping</key>
-				<integer>0</integer>
+				<integer>4</integer>
 				<key>script</key>
-				<string>from sabAlfred import open_browser
-open_browser()</string>
+				<string>from sabAlfred import set_host
+set_host("{query}")</string>
 				<key>type</key>
 				<integer>3</integer>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
-			<string>E7BFE40A-BF9D-441A-A732-80FB0B81D50F</string>
+			<string>6A33C721-D124-4100-8BF8-2DF204318252</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>sab api</string>
+				<key>text</key>
+				<string>Set API key of SABnzbd</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>2820B5D8-CE2A-4284-941E-1357BD043059</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>4</integer>
+				<key>script</key>
+				<string>from sabAlfred import set_APIKey
+set_APIKey("{query}")</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>C389F4B3-CDA4-4C88-AF55-9C3BA75F8ABF</string>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -247,102 +335,17 @@ get_jobs()</string>
 			<key>config</key>
 			<dict>
 				<key>escaping</key>
-				<integer>4</integer>
-				<key>script</key>
-				<string>from sabAlfred import set_host
-set_host("{query}")</string>
-				<key>type</key>
-				<integer>3</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>6A33C721-D124-4100-8BF8-2DF204318252</string>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>sab restart</string>
-				<key>text</key>
-				<string>Restart SABnzbd</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>3984969F-1914-4DAA-ACE8-8C166E671300</string>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>escaping</key>
-				<integer>4</integer>
-				<key>script</key>
-				<string>from sabAlfred import add_nzb
-add_nzb("{query}")</string>
-				<key>type</key>
-				<integer>3</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>12DCDBA6-C6A6-4C95-A133-907DD3944060</string>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
 				<integer>0</integer>
-				<key>keyword</key>
-				<string>sab speed</string>
-				<key>subtext</key>
-				<string>Set max download speed in KB/s</string>
-				<key>text</key>
-				<string>Set max download speed</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>D6372B4C-C278-4CEB-A9BF-993635508961</string>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>escaping</key>
-				<integer>4</integer>
 				<key>script</key>
-				<string>from sabAlfred import set_max_speed
-set_max_speed("{query}")</string>
+				<string>from sabAlfred import get_version
+get_version()</string>
 				<key>type</key>
 				<integer>3</integer>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
-			<string>A5E59F52-79C9-4B97-BE49-C5BF5D67BC8F</string>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>sab api</string>
-				<key>text</key>
-				<string>Set API key of SABnzbd</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>2820B5D8-CE2A-4284-941E-1357BD043059</string>
+			<string>27E12469-CF87-409F-B122-268C633F37E9</string>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -387,34 +390,35 @@ set_max_speed("{query}")</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>escaping</key>
-				<integer>0</integer>
-				<key>script</key>
-				<string>from sabAlfred import get_version
-get_version()</string>
-				<key>type</key>
-				<integer>3</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>sab restart</string>
+				<key>text</key>
+				<string>Restart SABnzbd</string>
+				<key>withspace</key>
+				<false/>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.action.script</string>
+			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
-			<string>27E12469-CF87-409F-B122-268C633F37E9</string>
+			<string>3984969F-1914-4DAA-ACE8-8C166E671300</string>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
 				<key>escaping</key>
-				<integer>4</integer>
+				<integer>0</integer>
 				<key>script</key>
-				<string>from sabAlfred import set_APIKey
-set_APIKey("{query}")</string>
+				<string>from sabAlfred import restart
+restart()</string>
 				<key>type</key>
 				<integer>3</integer>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
-			<string>C389F4B3-CDA4-4C88-AF55-9C3BA75F8ABF</string>
+			<string>50B7DF72-7D2F-44C8-B0E7-DBF51B40DC1C</string>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -432,22 +436,6 @@ set_APIKey("{query}")</string>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
 			<string>B73DF403-B82D-490E-A53C-D084454D8413</string>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>escaping</key>
-				<integer>0</integer>
-				<key>script</key>
-				<string>from sabAlfred import restart
-restart()</string>
-				<key>type</key>
-				<integer>3</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>50B7DF72-7D2F-44C8-B0E7-DBF51B40DC1C</string>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -494,19 +482,35 @@ get_history()</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>from sabAlfred import clear_history
+clear_history()</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>F2136CD3-9696-4491-91D0-6E29E8B5AD35</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>keyword</key>
-				<string>sab</string>
+				<string>sab clear</string>
 				<key>text</key>
-				<string>Open SABnzbd in your browser</string>
+				<string>Clear history</string>
 				<key>withspace</key>
 				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
-			<string>7D614B9A-6310-4D75-8289-9DA20E6401F4</string>
+			<string>641B9DEE-F4A2-4D09-8748-619625404084</string>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -527,6 +531,57 @@ get_history()</string>
 			<key>uid</key>
 			<string>C112B17B-4DE9-4ECE-9796-98E044744F63</string>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>4</integer>
+				<key>script</key>
+				<string>from sabAlfred import add_nzb
+add_nzb("{query}")</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>12DCDBA6-C6A6-4C95-A133-907DD3944060</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>4</integer>
+				<key>script</key>
+				<string>from sabAlfred import set_max_speed
+set_max_speed("{query}")</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>A5E59F52-79C9-4B97-BE49-C5BF5D67BC8F</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>sab speed</string>
+				<key>subtext</key>
+				<string>Set max download speed in KB/s</string>
+				<key>text</key>
+				<string>Set max download speed</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>D6372B4C-C278-4CEB-A9BF-993635508961</string>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string>Setup:
@@ -538,7 +593,7 @@ get_history()</string>
 		<key>12DCDBA6-C6A6-4C95-A133-907DD3944060</key>
 		<dict>
 			<key>ypos</key>
-			<real>1030</real>
+			<real>1160</real>
 		</dict>
 		<key>201F6000-8545-443F-80F2-E3267C9BAFA4</key>
 		<dict>
@@ -580,6 +635,11 @@ get_history()</string>
 			<key>ypos</key>
 			<real>570</real>
 		</dict>
+		<key>641B9DEE-F4A2-4D09-8748-619625404084</key>
+		<dict>
+			<key>ypos</key>
+			<real>1030</real>
+		</dict>
 		<key>6A33C721-D124-4100-8BF8-2DF204318252</key>
 		<dict>
 			<key>ypos</key>
@@ -593,7 +653,7 @@ get_history()</string>
 		<key>A5E59F52-79C9-4B97-BE49-C5BF5D67BC8F</key>
 		<dict>
 			<key>ypos</key>
-			<real>1150</real>
+			<real>1270</real>
 		</dict>
 		<key>ABF47C00-F770-48E3-8E96-DE429A1BBC9A</key>
 		<dict>
@@ -608,7 +668,7 @@ get_history()</string>
 		<key>C112B17B-4DE9-4ECE-9796-98E044744F63</key>
 		<dict>
 			<key>ypos</key>
-			<real>1030</real>
+			<real>1160</real>
 		</dict>
 		<key>C389F4B3-CDA4-4C88-AF55-9C3BA75F8ABF</key>
 		<dict>
@@ -618,7 +678,7 @@ get_history()</string>
 		<key>D6372B4C-C278-4CEB-A9BF-993635508961</key>
 		<dict>
 			<key>ypos</key>
-			<real>1150</real>
+			<real>1270</real>
 		</dict>
 		<key>E0835A6B-557B-444E-ADAA-86F2D0B5CB37</key>
 		<dict>
@@ -629,6 +689,11 @@ get_history()</string>
 		<dict>
 			<key>ypos</key>
 			<real>10</real>
+		</dict>
+		<key>F2136CD3-9696-4491-91D0-6E29E8B5AD35</key>
+		<dict>
+			<key>ypos</key>
+			<real>1030</real>
 		</dict>
 	</dict>
 	<key>webaddress</key>

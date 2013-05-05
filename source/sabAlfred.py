@@ -79,6 +79,12 @@ def get_history():
     print fb
 
 
+def clear_history():
+    data = get_data("history&name=delete&value=all")
+    if data['status']:
+        print "History cleared"
+
+
 def set_max_speed(value):
     data = get_data("config&name=speedlimit&value=" + value)
     if data['status']:
