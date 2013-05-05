@@ -15,6 +15,7 @@ Control [SABnzbd](http://sabnzbd.org/) from [Alfred 2](http://www.alfredapp.com/
 * Show current jobs
 * Show downloaded history
 * Clear history
+* Pause and resume download queue
 * Open SABnzbd webinterface
 * Set max download speed
 * Get the version of SABnzbd
