@@ -14,6 +14,7 @@ Control [SABnzbd](http://sabnzbd.org/) from [Alfred 2](http://www.alfredapp.com/
 * Add NZB by url
 * Show current jobs
 * Show downloaded history
+* Clear history
 * Open SABnzbd webinterface
 * Set max download speed
 * Get the version of SABnzbd
