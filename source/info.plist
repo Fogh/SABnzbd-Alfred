@@ -160,6 +160,28 @@
 				<string></string>
 			</dict>
 		</array>
+		<key>D562108E-53CF-43AC-AE56-F6DC8891CFB4</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>201F6000-8545-443F-80F2-E3267C9BAFA4</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>D57C1071-AAB5-4951-98B5-3AA20597FEA6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D562108E-53CF-43AC-AE56-F6DC8891CFB4</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
 		<key>D6372B4C-C278-4CEB-A9BF-993635508961</key>
 		<array>
 			<dict>
@@ -582,6 +604,41 @@ set_max_speed("{query}")</string>
 			<key>uid</key>
 			<string>D6372B4C-C278-4CEB-A9BF-993635508961</string>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>sab pause</string>
+				<key>subtext</key>
+				<string>Toggle between pausing and resuming the queue</string>
+				<key>text</key>
+				<string>Pause/resume queue</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>D57C1071-AAB5-4951-98B5-3AA20597FEA6</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>from sabAlfred import toggle_queue
+toggle_queue()</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>D562108E-53CF-43AC-AE56-F6DC8891CFB4</string>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string>Setup:
@@ -674,6 +731,16 @@ set_max_speed("{query}")</string>
 		<dict>
 			<key>ypos</key>
 			<real>250</real>
+		</dict>
+		<key>D562108E-53CF-43AC-AE56-F6DC8891CFB4</key>
+		<dict>
+			<key>ypos</key>
+			<real>1390</real>
+		</dict>
+		<key>D57C1071-AAB5-4951-98B5-3AA20597FEA6</key>
+		<dict>
+			<key>ypos</key>
+			<real>1390</real>
 		</dict>
 		<key>D6372B4C-C278-4CEB-A9BF-993635508961</key>
 		<dict>

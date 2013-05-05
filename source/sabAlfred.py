@@ -91,6 +91,16 @@ def set_max_speed(value):
         print "Max download speed changed"
 
 
+def toggle_queue():
+    queue_data = get_data("qstatus")
+    if not queue_data['paused']:
+        if get_data("pause")['status']:
+            print "Queue paused"
+    else:
+        if get_data("resume")['status']:
+            print "Queue resuming"
+
+
 def add_nzb(url):
     data = get_data("addurl&name=" + url)
     if data['status']:
