@@ -30,3 +30,7 @@ Control [SABnzbd](http://sabnzbd.org/) from [Alfred 2](http://www.alfredapp.com/
 ## Contribute
 
 If you find any bugs or if you think the workflow is missing a feature, don't hesitate to submit a pull request or create an issue.
+
+## License
+
+This workflow and code is licensed under the [MIT license](http://opensource.org/licenses/MIT).
