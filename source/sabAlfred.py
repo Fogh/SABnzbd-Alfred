@@ -1,5 +1,6 @@
 import json
 import urllib2
+import urllib
 import webbrowser
 from alp.settings import Settings
 from feedback import Feedback
@@ -102,7 +103,7 @@ def toggle_queue():
 
 
 def add_nzb(url):
-    data = get_data("addurl&name=" + url)
+    data = get_data("addurl&name=" + urllib.quote(url))
     if data['status']:
         print "NZB added!"
     else:
