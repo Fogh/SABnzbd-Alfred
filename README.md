@@ -24,8 +24,8 @@ Control [SABnzbd](http://sabnzbd.org/) from [Alfred 2](http://www.alfredapp.com/
 
 ## Setup
 
-* Use the keyword `sab api` to set your API key.
-* If you host SABnzbd elsewhere than localhost use the keyword `sab host` to set your host URL.
+* Use the keyword `sab api <API key>` to set your API key.
+* If you host SABnzbd elsewhere than localhost use the keyword `sab host <host url>` to set your host URL.
 
 ## Contribute
 
