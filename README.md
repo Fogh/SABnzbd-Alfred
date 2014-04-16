@@ -1,6 +1,6 @@
 SABnzbd-Alfred
 ==============
-![](http://img.shields.io/github/release/Fogh/SABnzbd-Alfred.svg)
+![](http://img.shields.io/github/tag/Fogh/SABnzbd-Alfred.svg)
 
 Control [SABnzbd](http://sabnzbd.org/) from [Alfred 2](http://www.alfredapp.com/)
 
