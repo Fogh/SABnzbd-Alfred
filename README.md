@@ -17,7 +17,7 @@ Control [SABnzbd](http://sabnzbd.org/) from [Alfred 2](http://www.alfredapp.com/
 * Show downloaded history
 * Clear history
 * Pause and resume download queue
-* Open SABnzbd webinterface
+* Open SABnzbd web interface
 * Set max download speed
 * Get the version of SABnzbd
 * Restart SABnzbd
@@ -26,7 +26,7 @@ Control [SABnzbd](http://sabnzbd.org/) from [Alfred 2](http://www.alfredapp.com/
 ## Setup
 
 * Use the keyword `sab api <API key>` to set your API key.
-* If you host SABnzbd elsewhere than localhost use the keyword `sab host <host url>` to set your host URL.
+* If you host SABnzbd elsewhere than localhost, use the keyword `sab host <host url>` to set your host URL.
 
 ## Contribute
 
