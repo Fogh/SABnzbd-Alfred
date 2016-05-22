@@ -15,6 +15,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>27E12469-CF87-409F-B122-268C633F37E9</key>
@@ -26,6 +28,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>2820B5D8-CE2A-4284-941E-1357BD043059</key>
@@ -37,6 +41,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>3984969F-1914-4DAA-ACE8-8C166E671300</key>
@@ -48,6 +54,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>428CFF68-2F22-4A08-A634-DC58B22FA29B</key>
@@ -59,6 +67,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>50B7DF72-7D2F-44C8-B0E7-DBF51B40DC1C</key>
@@ -70,6 +80,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>565CAEC9-DA00-44D9-9354-A2B35E2BCB7C</key>
@@ -81,6 +93,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>641B9DEE-F4A2-4D09-8748-619625404084</key>
@@ -92,6 +106,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>6A33C721-D124-4100-8BF8-2DF204318252</key>
@@ -103,6 +119,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>7D614B9A-6310-4D75-8289-9DA20E6401F4</key>
@@ -114,6 +132,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>A5E59F52-79C9-4B97-BE49-C5BF5D67BC8F</key>
@@ -125,6 +145,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>B73DF403-B82D-490E-A53C-D084454D8413</key>
@@ -136,6 +158,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>C112B17B-4DE9-4ECE-9796-98E044744F63</key>
@@ -147,6 +171,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>C389F4B3-CDA4-4C88-AF55-9C3BA75F8ABF</key>
@@ -158,6 +184,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>D562108E-53CF-43AC-AE56-F6DC8891CFB4</key>
@@ -169,6 +197,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>D57C1071-AAB5-4951-98B5-3AA20597FEA6</key>
@@ -180,6 +210,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>D6372B4C-C278-4CEB-A9BF-993635508961</key>
@@ -191,6 +223,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>E0835A6B-557B-444E-ADAA-86F2D0B5CB37</key>
@@ -202,6 +236,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>F2136CD3-9696-4491-91D0-6E29E8B5AD35</key>
@@ -213,6 +249,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 	</dict>
@@ -221,7 +259,7 @@
 	<key>description</key>
 	<string>Control SABnzbd</string>
 	<key>disabled</key>
-	<false/>
+	<true/>
 	<key>name</key>
 	<string>SABnzbd</string>
 	<key>objects</key>
@@ -229,11 +267,17 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>0</integer>
 				<key>script</key>
 				<string>from sabAlfred import open_browser
 open_browser()</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>3</integer>
 			</dict>
@@ -241,6 +285,8 @@ open_browser()</string>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>E7BFE40A-BF9D-441A-A732-80FB0B81D50F</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -249,6 +295,8 @@ open_browser()</string>
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>sab</string>
+				<key>subtext</key>
+				<string></string>
 				<key>text</key>
 				<string>Open SABnzbd in your browser</string>
 				<key>withspace</key>
@@ -258,6 +306,8 @@ open_browser()</string>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
 			<string>7D614B9A-6310-4D75-8289-9DA20E6401F4</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -277,15 +327,23 @@ open_browser()</string>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
 			<string>E0835A6B-557B-444E-ADAA-86F2D0B5CB37</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>4</integer>
 				<key>script</key>
 				<string>from sabAlfred import set_host
 set_host("{query}")</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>3</integer>
 			</dict>
@@ -293,6 +351,8 @@ set_host("{query}")</string>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>6A33C721-D124-4100-8BF8-2DF204318252</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -301,6 +361,8 @@ set_host("{query}")</string>
 				<integer>0</integer>
 				<key>keyword</key>
 				<string>sab api</string>
+				<key>subtext</key>
+				<string></string>
 				<key>text</key>
 				<string>Set API key of SABnzbd</string>
 				<key>withspace</key>
@@ -310,15 +372,23 @@ set_host("{query}")</string>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
 			<string>2820B5D8-CE2A-4284-941E-1357BD043059</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>4</integer>
 				<key>script</key>
 				<string>from sabAlfred import set_APIKey
 set_APIKey("{query}")</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>3</integer>
 			</dict>
@@ -326,21 +396,39 @@ set_APIKey("{query}")</string>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>C389F4B3-CDA4-4C88-AF55-9C3BA75F8ABF</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>escaping</key>
 				<integer>0</integer>
 				<key>keyword</key>
 				<string>sab jobs</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
 				<key>runningsubtext</key>
 				<string>Loading jobs...</string>
 				<key>script</key>
 				<string>from sabAlfred import get_jobs
 get_jobs()</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
 				<key>title</key>
 				<string>List current jobs in queue</string>
 				<key>type</key>
@@ -352,15 +440,23 @@ get_jobs()</string>
 			<string>alfred.workflow.input.scriptfilter</string>
 			<key>uid</key>
 			<string>298E0278-4611-4CF2-A473-274A5E7BFC9F</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>0</integer>
 				<key>script</key>
 				<string>from sabAlfred import get_version
 get_version()</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>3</integer>
 			</dict>
@@ -368,6 +464,8 @@ get_version()</string>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>27E12469-CF87-409F-B122-268C633F37E9</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -376,6 +474,8 @@ get_version()</string>
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>sab version</string>
+				<key>subtext</key>
+				<string></string>
 				<key>text</key>
 				<string>Get version of SABnzbd</string>
 				<key>withspace</key>
@@ -385,6 +485,8 @@ get_version()</string>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
 			<string>565CAEC9-DA00-44D9-9354-A2B35E2BCB7C</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -393,11 +495,7 @@ get_version()</string>
 				<false/>
 				<key>onlyshowifquerypopulated</key>
 				<true/>
-				<key>output</key>
-				<integer>0</integer>
 				<key>removeextension</key>
-				<false/>
-				<key>sticky</key>
 				<false/>
 				<key>text</key>
 				<string>{query}</string>
@@ -408,6 +506,8 @@ get_version()</string>
 			<string>alfred.workflow.output.notification</string>
 			<key>uid</key>
 			<string>201F6000-8545-443F-80F2-E3267C9BAFA4</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -416,6 +516,8 @@ get_version()</string>
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>sab restart</string>
+				<key>subtext</key>
+				<string></string>
 				<key>text</key>
 				<string>Restart SABnzbd</string>
 				<key>withspace</key>
@@ -425,15 +527,23 @@ get_version()</string>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
 			<string>3984969F-1914-4DAA-ACE8-8C166E671300</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>0</integer>
 				<key>script</key>
 				<string>from sabAlfred import restart
 restart()</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>3</integer>
 			</dict>
@@ -441,6 +551,8 @@ restart()</string>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>50B7DF72-7D2F-44C8-B0E7-DBF51B40DC1C</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -449,6 +561,8 @@ restart()</string>
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>sab shutdown</string>
+				<key>subtext</key>
+				<string></string>
 				<key>text</key>
 				<string>Shutdown SABnzbd</string>
 				<key>withspace</key>
@@ -458,15 +572,23 @@ restart()</string>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
 			<string>B73DF403-B82D-490E-A53C-D084454D8413</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>0</integer>
 				<key>script</key>
 				<string>from sabAlfred import shutdown
 shutdown()</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>3</integer>
 			</dict>
@@ -474,21 +596,39 @@ shutdown()</string>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>428CFF68-2F22-4A08-A634-DC58B22FA29B</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>escaping</key>
 				<integer>0</integer>
 				<key>keyword</key>
 				<string>sab his</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
 				<key>runningsubtext</key>
 				<string>Loading history...</string>
 				<key>script</key>
 				<string>from sabAlfred import get_history
 get_history()</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
 				<key>title</key>
 				<string>List history</string>
 				<key>type</key>
@@ -500,15 +640,23 @@ get_history()</string>
 			<string>alfred.workflow.input.scriptfilter</string>
 			<key>uid</key>
 			<string>ABF47C00-F770-48E3-8E96-DE429A1BBC9A</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>0</integer>
 				<key>script</key>
 				<string>from sabAlfred import clear_history
 clear_history()</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>3</integer>
 			</dict>
@@ -516,6 +664,8 @@ clear_history()</string>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>F2136CD3-9696-4491-91D0-6E29E8B5AD35</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -524,6 +674,8 @@ clear_history()</string>
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>sab clear</string>
+				<key>subtext</key>
+				<string></string>
 				<key>text</key>
 				<string>Clear history</string>
 				<key>withspace</key>
@@ -533,6 +685,8 @@ clear_history()</string>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
 			<string>641B9DEE-F4A2-4D09-8748-619625404084</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -552,15 +706,23 @@ clear_history()</string>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
 			<string>C112B17B-4DE9-4ECE-9796-98E044744F63</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>4</integer>
 				<key>script</key>
 				<string>from sabAlfred import add_nzb
 add_nzb("{query}")</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>3</integer>
 			</dict>
@@ -568,15 +730,23 @@ add_nzb("{query}")</string>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>12DCDBA6-C6A6-4C95-A133-907DD3944060</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>4</integer>
 				<key>script</key>
 				<string>from sabAlfred import set_max_speed
 set_max_speed("{query}")</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>3</integer>
 			</dict>
@@ -584,6 +754,8 @@ set_max_speed("{query}")</string>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>A5E59F52-79C9-4B97-BE49-C5BF5D67BC8F</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -603,6 +775,8 @@ set_max_speed("{query}")</string>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
 			<string>D6372B4C-C278-4CEB-A9BF-993635508961</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -622,15 +796,23 @@ set_max_speed("{query}")</string>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
 			<string>D57C1071-AAB5-4951-98B5-3AA20597FEA6</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>0</integer>
 				<key>script</key>
 				<string>from sabAlfred import toggle_queue
 toggle_queue()</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>3</integer>
 			</dict>
@@ -638,6 +820,8 @@ toggle_queue()</string>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>D562108E-53CF-43AC-AE56-F6DC8891CFB4</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 	</array>
 	<key>readme</key>
@@ -649,120 +833,168 @@ toggle_queue()</string>
 	<dict>
 		<key>12DCDBA6-C6A6-4C95-A133-907DD3944060</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>1160</real>
 		</dict>
 		<key>201F6000-8545-443F-80F2-E3267C9BAFA4</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>630</real>
 		</dict>
 		<key>27E12469-CF87-409F-B122-268C633F37E9</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>570</real>
 		</dict>
 		<key>2820B5D8-CE2A-4284-941E-1357BD043059</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>250</real>
 		</dict>
 		<key>298E0278-4611-4CF2-A473-274A5E7BFC9F</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>460</real>
 		</dict>
 		<key>3984969F-1914-4DAA-ACE8-8C166E671300</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>680</real>
 		</dict>
 		<key>428CFF68-2F22-4A08-A634-DC58B22FA29B</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>790</real>
 		</dict>
 		<key>50B7DF72-7D2F-44C8-B0E7-DBF51B40DC1C</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>680</real>
 		</dict>
 		<key>565CAEC9-DA00-44D9-9354-A2B35E2BCB7C</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>570</real>
 		</dict>
 		<key>641B9DEE-F4A2-4D09-8748-619625404084</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>1030</real>
 		</dict>
 		<key>6A33C721-D124-4100-8BF8-2DF204318252</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>130</real>
 		</dict>
 		<key>7D614B9A-6310-4D75-8289-9DA20E6401F4</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>10</real>
 		</dict>
 		<key>A5E59F52-79C9-4B97-BE49-C5BF5D67BC8F</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>1270</real>
 		</dict>
 		<key>ABF47C00-F770-48E3-8E96-DE429A1BBC9A</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>910</real>
 		</dict>
 		<key>B73DF403-B82D-490E-A53C-D084454D8413</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>790</real>
 		</dict>
 		<key>C112B17B-4DE9-4ECE-9796-98E044744F63</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>1160</real>
 		</dict>
 		<key>C389F4B3-CDA4-4C88-AF55-9C3BA75F8ABF</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>250</real>
 		</dict>
 		<key>D562108E-53CF-43AC-AE56-F6DC8891CFB4</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>1390</real>
 		</dict>
 		<key>D57C1071-AAB5-4951-98B5-3AA20597FEA6</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>1390</real>
 		</dict>
 		<key>D6372B4C-C278-4CEB-A9BF-993635508961</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>1270</real>
 		</dict>
 		<key>E0835A6B-557B-444E-ADAA-86F2D0B5CB37</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>130</real>
 		</dict>
 		<key>E7BFE40A-BF9D-441A-A732-80FB0B81D50F</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>10</real>
 		</dict>
 		<key>F2136CD3-9696-4491-91D0-6E29E8B5AD35</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>1030</real>
 		</dict>
 	</dict>
+	<key>version</key>
+	<string>1.0.2</string>
 	<key>webaddress</key>
 	<string>afogh.dk</string>
 </dict>
